@@ -1,0 +1,11 @@
+{
+  "name": "coved-workshop",
+  "version": "1.0.0",
+  "description": "CovEd Web Development Workshop",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "scripts": {
+    "server": "http-server"
+  }
+}
